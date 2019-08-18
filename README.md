@@ -105,17 +105,17 @@ ___Жирный наклонный текст (bold italic)___
 ____
 
 
-## Отключение перевода на новую строку
+## Включение перевода на новую строку
 
 Достаточно в конце строки добавить четыре пробела:
 
 ```
-Эти строки    
-Без отступа между ними
+Это две    
+строки
 ```
 
-Эти строки    
-Без отступа между ними
+Это две    
+строки
 
 [:arrow_up:Оглавление](#Оглавление)
 ___
@@ -125,19 +125,19 @@ ___
 
 В самом тексте можно использовать эмодзи, например написать вот так:
 
-:white_check_mark: Это уже сделано
-:negative_squared_cross_mark: Я не буду это делать
+:white_check_mark: Это уже сделано    
+:negative_squared_cross_mark: Я не буду это делать    
 :black_square_button: делать или не делать, вот в чем вопрос?
 
 В оригинале это выглядит так:
 
 ```
-:white_check_mark: Это уже сделано
-:negative_squared_cross_mark: Я не буду это делать
+:white_check_mark: Это уже сделано    
+:negative_squared_cross_mark: Я не буду это делать    
 :black_square_button: делать или не делать, вот в чем вопрос?
 ```
 
-Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/GnuriaN/format-README.md/blob/master/emoji.md)    
+Список работающих Эмодзи находится тут -> [emoji.md](https://github.com/zamabuvaraeu/format-README.md/blob/master/emoji.md)    
     
 [:arrow_up:Оглавление](#Оглавление)
 ___
